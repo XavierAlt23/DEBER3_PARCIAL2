@@ -44,6 +44,23 @@ OBJETIVOS ESPECIFICOS CAPITULO 12
 ![Captura de pantalla 2022-07-15 005555](https://user-images.githubusercontent.com/105680816/179160203-65ca8dce-9118-4aa8-a9d3-93ba185f79af.png)
 ![Captura de pantalla 2022-07-15 005713](https://user-images.githubusercontent.com/105680816/179160366-b54b6a75-9bb2-4f15-ac48-69f2a669ddd5.png)
 ![Captura de pantalla 2022-07-15 005739](https://user-images.githubusercontent.com/105680816/179160384-f6f8a5de-9b5c-4f93-aedf-fa4a830eb12a.png)
+![Captura de pantalla 2022-07-15 081228](https://user-images.githubusercontent.com/105680816/179230116-ac478cbf-f48f-41fb-bff6-a54c15397112.png)
+![Captura de pantalla 2022-07-15 081244](https://user-images.githubusercontent.com/105680816/179230128-b9553e37-00a7-45e3-889f-7da8b8c7d9ca.png)
+![Captura de pantalla 2022-07-15 081540](https://user-images.githubusercontent.com/105680816/179230645-3dde5837-72cd-401b-9b54-58b32ea014ba.png)
+![Captura de pantalla 2022-07-15 081525](https://user-images.githubusercontent.com/105680816/179230648-5f144eba-338d-46fa-b7e5-0966e092e939.png)
+![Captura de pantalla 2022-07-15 081511](https://user-images.githubusercontent.com/105680816/179230650-8d0aab44-4cf4-43e6-98d4-6552cb20ced6.png)
+![Captura de pantalla 2022-07-15 081457](https://user-images.githubusercontent.com/105680816/179230653-2fff7760-2e58-4e7c-ab22-fe5d881ceaa4.png)
+![Captura de pantalla 2022-07-15 081443](https://user-images.githubusercontent.com/105680816/179230656-747f5cbf-4bad-48ea-ba39-5b3f35ce5475.png)
+![Captura de pantalla 2022-07-15 081428](https://user-images.githubusercontent.com/105680816/179230657-5d901460-8f9f-438d-95c8-070abe01ce01.png)
+![Captura de pantalla 2022-07-15 081414](https://user-images.githubusercontent.com/105680816/179230659-848e8784-020e-4375-9765-1a603325f76b.png)
+![Captura de pantalla 2022-07-15 081359](https://user-images.githubusercontent.com/105680816/179230661-e5c6dae8-ec9e-4345-a547-b21ce0184772.png)
+![Captura de pantalla 2022-07-15 081342](https://user-images.githubusercontent.com/105680816/179230662-c7ede4b0-95b5-46d1-ac16-6121bfdb7a15.png)
+![Captura de pantalla 2022-07-15 081848](https://user-images.githubusercontent.com/105680816/179231116-6804d98f-6c71-464c-b70c-b2780eb30054.png)
+![Captura de pantalla 2022-07-15 081835](https://user-images.githubusercontent.com/105680816/179231119-a043c371-5522-4cca-8a28-bb268cc1521a.png)
+![Captura de pantalla 2022-07-15 081818](https://user-images.githubusercontent.com/105680816/179231120-2a1cc857-10da-4680-a0c4-3969dc6594fc.png)
+![Captura de pantalla 2022-07-15 081803](https://user-images.githubusercontent.com/105680816/179231122-772d7d9b-17b8-4b4e-b18e-3bfe1d2f2db8.png)
+![Captura de pantalla 2022-07-15 081748](https://user-images.githubusercontent.com/105680816/179231124-a41c4d77-1ce5-4ad5-8f0e-9bb483eeb5e1.png)
+
 
 
 
